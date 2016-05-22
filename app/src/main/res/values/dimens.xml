@@ -1,0 +1,16 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- Font -->
+    <dimen name="font_bt_primary">14sp</dimen>
+    <dimen name="font_bt_summary">10sp</dimen>
+    <dimen name="font_log">10sp</dimen>
+    <dimen name="font_top">32sp</dimen>
+
+    <!-- Main -->
+    <dimen name="main_bt_read_height">144dp</dimen>
+    <dimen name="main_bt_common_height">96dp</dimen>
+</resources>

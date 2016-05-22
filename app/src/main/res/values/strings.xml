@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">絵本の世界を広げルン</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="main_read">絵本をよむ</string>
+    <string name="main_create_tag">タグをつくる</string>
+
+    <string name="create_bt_get_message">受信信号を取得</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFC107</color>
+    <color name="colorPrimaryDark">#FF6F00</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorBackground">#FFF8E1</color>
+
+    <color name="bt_primary">#FF80AB</color>
+    <color name="bt_secondary">#4CAF50</color>
+    <color name="bt_irkit">#FFFFFF</color>
+</resources>
